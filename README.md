@@ -11,4 +11,4 @@
 <h3>  <i> código disponível na pasta referente a questão </i>   </h3>
 
 <h1>  Questão 5   </h1>
-<h3>  Resposta: 91   </h3>
+<h3>  código disponível na pasta referente a questão   </h3>
