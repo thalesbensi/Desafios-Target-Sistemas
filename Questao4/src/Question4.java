@@ -51,12 +51,6 @@ public class Question4 {
 
         double percent = (estado * 100) / sum;
 
-
-
         return percent;
-
-
     }
-
-
 }
