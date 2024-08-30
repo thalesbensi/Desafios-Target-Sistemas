@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FaturamentoMensal>
+    <Empresa>
+        <Nome>Distribuidora ABC</Nome>
+        <CNPJ>12.345.678/0001-90</CNPJ>
+    </Empresa>
+    <Mes>Agosto/2024</Mes>
+    <Dias>
+        <Dia>
+            <Data>2024-08-01</Data>
+            <Valor>1200.50</Valor>
+        </Dia>
+        <Dia>
+            <Data>2024-08-02</Data>
+            <Valor>2500.75</Valor>
+        </Dia>
+        <Dia>
+            <Data>2024-08-03</Data>
+            <Valor>0.00</Valor> <!-- Final de semana -->
+        </Dia>
+        <Dia>
+            <Data>2024-08-04</Data>
+            <Valor>0.00</Valor> <!-- Final de semana -->
+        </Dia>
+        <Dia>
+            <Data>2024-08-05</Data>
+            <Valor>1800.00</Valor>
+        </Dia>
+        <Dia>
+            <Data>2024-08-06</Data>
+            <Valor>2200.00</Valor>
+        </Dia>
+        <Dia>
+            <Data>2024-08-07</Data>
+            <Valor>3000.50</Valor>
+        </Dia>
+        <Dia>
+            <Data>2024-08-08</Data>
+            <Valor>1500.00</Valor>
+        </Dia>
+        <Dia>
+            <Data>2024-08-09</Data>
+            <Valor>4000.00</Valor>
+        </Dia>
+        <Dia>
+            <Data>2024-08-10</Data>
+            <Valor>0.00</Valor> <!-- Final de semana -->
+        </Dia>
+        <Dia>
+            <Data>2024-08-11</Data>
+            <Valor>0.00</Valor> <!-- Final de semana -->
+        </Dia>
+        <Dia>
+            <Data>2024-08-12</Data>
+            <Valor>2700.00</Valor>
+        </Dia>
+        <Dia>
+            <Data>2024-08-13</Data>
+            <Valor>2900.00</Valor>
+        </Dia>
+        <Dia>
+            <Data>2024-08-14</Data>
+            <Valor>3200.75</Valor>
+        </Dia>
+        <Dia>
+            <Data>2024-08-15</Data>
+            <Valor>2100.00</Valor>
+        </Dia>
+        <Dia>
+            <Data>2024-08-16</Data>
+            <Valor>1800.50</Valor>
+        </Dia>
+        <Dia>
+            <Data>2024-08-17</Data>
+            <Valor>0.00</Valor> <!-- Final de semana -->
+        </Dia>
+        <Dia>
+            <Data>2024-08-18</Data>
+            <Valor>0.00</Valor> <!-- Final de semana -->
+        </Dia>
+        <Dia>
+            <Data>2024-08-19</Data>
+            <Valor>2300.00</Valor>
+        </Dia>
+        <Dia>
+            <Data>2024-08-20</Data>
+            <Valor>2600.00</Valor>
+        </Dia>
+        <Dia>
+            <Data>2024-08-21</Data>
+            <Valor>2800.00</Valor>
+        </Dia>
+        <Dia>
+            <Data>2024-08-22</Data>
+            <Valor>3500.25</Valor>
+        </Dia>
+        <Dia>
+            <Data>2024-08-23</Data>
+            <Valor>3300.00</Valor>
+        </Dia>
+        <Dia>
+            <Data>2024-08-24</Data>
+            <Valor>0.00</Valor> <!-- Final de semana -->
+        </Dia>
+        <Dia>
+            <Data>2024-08-25</Data>
+            <Valor>0.00</Valor> <!-- Final de semana -->
+        </Dia>
+        <Dia>
+            <Data>2024-08-26</Data>
+            <Valor>2400.00</Valor>
+        </Dia>
+        <Dia>
+            <Data>2024-08-27</Data>
+            <Valor>2600.50</Valor>
+        </Dia>
+        <Dia>
+            <Data>2024-08-28</Data>
+            <Valor>2800.00</Valor>
+        </Dia>
+        <Dia>
+            <Data>2024-08-29</Data>
+            <Valor>2900.00</Valor>
+        </Dia>
+        <Dia>
+            <Data>2024-08-30</Data>
+            <Valor>3200.00</Valor>
+        </Dia>
+        <Dia>
+            <Data>2024-08-31</Data>
+            <Valor>0.00</Valor> <!-- Final de semana -->
+        </Dia>
+    </Dias>
+</FaturamentoMensal>
